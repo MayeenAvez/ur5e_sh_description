@@ -14,7 +14,7 @@ by [KUKA Robotics](https://www.kuka.com/en-us). It is derived from the [publicly
 URDF description created by the [Drake](https://github.com/RobotLocomotion/drake) developers.
 
 <p float="left">
-  <img src="iiwa_14.png" width="400">
+  <img src="Screenshot 2025-11-24 121607.png" width="400">
 </p>
 
 ## URDF → MJCF derivation steps
